@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[asw:home|Door43 (asw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-asw|d43-asw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-asw/archive/master.zip|d43-asw.zip]]
+
+**Recent Changes**
+{{changes>ns = asw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/asw|Ethnologue data]]
+
